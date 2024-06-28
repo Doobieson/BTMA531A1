@@ -1,2 +1,5 @@
 # BTMA531A1
 Repository for BTMA 531 Assignment 1, completed January 2024
+For those who have taken BTMA 431 (like I have), this course was MUCH easier despite it being a 500-level course. The datasets we worked with were cleaned beforehand, meaning we didn't have to worry about missing, incomplete, or incompatible data. This course also focused mainly on QUALITY over quantity - we had to make sure our analysis made sense while implementing proper data analysis techniques and methodology, and most importantly, we needed to make sure our data was being visualized accurately.
+
+That being said, this course also incorporated more statistical methods than 431, much more math (stats-wise), but required less coding knowledge. As a result, this course acted more like a refresher for me, sharpening my rusty R skills and furthering my knowledge mainly in the area of Machine Learning models. Again, some students had 0 coding knowledge going into this course, some may not have even taken 431. Although this course was simpler, you could definitely tell who had/didn't have experience with this language.
